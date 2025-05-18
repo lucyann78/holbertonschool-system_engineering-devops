@@ -1,6 +1,6 @@
 Simple Web Stack
 
-
+![image alt](https://github.com/lucyann78/holbertonschool-system_engineering-devops/blob/bd83c4fb49d11f5afd81820817f1bc25dc528c7c/Web%20Infrastructures%20Mermaid%20Diagram.png)
 Component in the Diagram
 User:
 
