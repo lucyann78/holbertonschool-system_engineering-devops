@@ -1,6 +1,6 @@
 # Scale up
 
-
+![image alt](https://github.com/lucyann78/holbertonschool-system_engineering-devops/blob/5e86955f4ea0df0ef85424dd01199eceb6ab47dc/web_infrastructure_design/Scale%20Mermaid%20Diagram.png)
 
 ## Diagram Components
 
