@@ -1,6 +1,6 @@
 # Secure and Monitored Web Infrastructure
 
-
+![image alt](https://github.com/lucyann78/holbertonschool-system_engineering-devops/blob/98fe2fd33402157a75e893bf90c3f6c3ed3e0e96/web_infrastructure_design/Secure%20and%20Monitor%20Web%20InfrastructureMermaid%20diagram.png)
 
 ## Diagram Components
 
